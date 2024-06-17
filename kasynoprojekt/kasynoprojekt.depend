@@ -1,0 +1,226 @@
+# depslib dependency file v1.0
+1718019799 source:c:\users\marci\desktop\c++\kasynoprojekt\main.cpp
+	<iostream>
+	<cstdlib>
+	"Gracz.h"
+	<time.h>
+	<cctype>
+	"Ruletka.h"
+	"JednorekiBandyta.h"
+	"BlackJack.h"
+
+1717709957 source:c:\users\marci\desktop\c++\kasynoprojekt\src\slots.cpp
+	"Slots.h"
+
+1717709957 c:\users\marci\desktop\c++\kasynoprojekt\include\slots.h
+
+1717710249 source:c:\users\marci\desktop\c++\kasynoprojekt\src\stanowisko.cpp
+	"Stanowisko.h"
+
+1717924349 c:\users\marci\desktop\c++\kasynoprojekt\include\stanowisko.h
+	"Gracz.h"
+
+1718016514 c:\users\marci\desktop\c++\kasynoprojekt\include\gracz.h
+	<string>
+
+1718025315 source:c:\users\marci\desktop\c++\kasynoprojekt\src\gracz.cpp
+	"Gracz.h"
+	<string>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+
+1718025274 source:c:\users\marci\desktop\c++\kasynoprojekt\src\ruletka.cpp
+	"Ruletka.h"
+	<time.h>
+	<iostream>
+	"Gra.h"
+	"Gracz.h"
+
+1718009227 c:\users\marci\desktop\c++\kasynoprojekt\include\ruletka.h
+	"Gracz.h"
+	"Gra.h"
+
+1718006366 c:\users\marci\desktop\c++\kasynoprojekt\include\gra.h
+	"Gracz.h"
+
+1718015450 source:c:\users\marci\desktop\c++\kasynoprojekt\src\jednorekibandyta.cpp
+	"JednorekiBandyta.h"
+	"Gra.h"
+	"Gracz.h"
+	<iostream>
+	<time.h>
+
+1718011125 c:\users\marci\desktop\c++\kasynoprojekt\include\jednorekibandyta.h
+	"Gracz.h"
+	"Gra.h"
+
+1718024911 source:c:\users\marci\desktop\c++\kasynoprojekt\src\blackjack.cpp
+	"BlackJack.h"
+	<iostream>
+	<time.h>
+
+1718024441 c:\users\marci\desktop\c++\kasynoprojekt\include\blackjack.h
+	"Gra.h"
+
+1718219536 source:d:\jpo\kasynoprojekt\main.cpp
+	<iostream>
+	<cstdlib>
+	"Gracz.h"
+	<time.h>
+	<cctype>
+	"Ruletka.h"
+	"JednorekiBandyta.h"
+	"BlackJack.h"
+	"Gracz.h"
+
+1718016516 d:\jpo\kasynoprojekt\include\gracz.h
+	<string>
+
+1718090792 d:\jpo\kasynoprojekt\include\ruletka.h
+	"Gracz.h"
+	"Gra.h"
+
+1718218918 d:\jpo\kasynoprojekt\include\gra.h
+	"Gracz.h"
+
+1718272384 d:\jpo\kasynoprojekt\include\jednorekibandyta.h
+	"Gracz.h"
+	"Gra.h"
+
+1718274710 d:\jpo\kasynoprojekt\include\blackjack.h
+	"Gra.h"
+
+1718277358 source:d:\jpo\kasynoprojekt\src\blackjack.cpp
+	"BlackJack.h"
+	<iostream>
+	<time.h>
+
+1718025316 source:d:\jpo\kasynoprojekt\src\gracz.cpp
+	"Gracz.h"
+	<string>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+
+1718272472 source:d:\jpo\kasynoprojekt\src\jednorekibandyta.cpp
+	"JednorekiBandyta.h"
+	"Gra.h"
+	"Gracz.h"
+	<iostream>
+	<time.h>
+
+1718025276 source:d:\jpo\kasynoprojekt\src\ruletka.cpp
+	"Ruletka.h"
+	<time.h>
+	<iostream>
+	"Gra.h"
+	"Gracz.h"
+
+1718219536 source:e:\jpo\kasynoprojekt2\kasynoprojekt\main.cpp
+	<iostream>
+	<cstdlib>
+	"Gracz.h"
+	<time.h>
+	<cctype>
+	"Ruletka.h"
+	"JednorekiBandyta.h"
+	"BlackJack.h"
+	"Gracz.h"
+
+1718016516 e:\jpo\kasynoprojekt2\kasynoprojekt\include\gracz.h
+	<string>
+
+1718090792 e:\jpo\kasynoprojekt2\kasynoprojekt\include\ruletka.h
+	"Gracz.h"
+	"Gra.h"
+
+1718218918 e:\jpo\kasynoprojekt2\kasynoprojekt\include\gra.h
+	"Gracz.h"
+
+1718272384 e:\jpo\kasynoprojekt2\kasynoprojekt\include\jednorekibandyta.h
+	"Gracz.h"
+	"Gra.h"
+
+1718274710 e:\jpo\kasynoprojekt2\kasynoprojekt\include\blackjack.h
+	"Gra.h"
+
+1718025316 source:e:\jpo\kasynoprojekt2\kasynoprojekt\src\gracz.cpp
+	"Gracz.h"
+	<string>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+
+1718278034 source:e:\jpo\kasynoprojekt2\kasynoprojekt\src\jednorekibandyta.cpp
+	"JednorekiBandyta.h"
+	"Gra.h"
+	"Gracz.h"
+	<iostream>
+	<time.h>
+
+1718278034 source:e:\jpo\kasynoprojekt2\kasynoprojekt\src\ruletka.cpp
+	"Ruletka.h"
+	<time.h>
+	<iostream>
+	"Gra.h"
+	"Gracz.h"
+
+1718219536 source:d:\jpo\kasynoprojekt2\kasynoprojekt\main.cpp
+	<iostream>
+	<cstdlib>
+	"Gracz.h"
+	<time.h>
+	<cctype>
+	"Ruletka.h"
+	"JednorekiBandyta.h"
+	"BlackJack.h"
+	"Gracz.h"
+
+1718016516 d:\jpo\kasynoprojekt2\kasynoprojekt\include\gracz.h
+	<string>
+
+1718090792 d:\jpo\kasynoprojekt2\kasynoprojekt\include\ruletka.h
+	"Gracz.h"
+	"Gra.h"
+
+1718218918 d:\jpo\kasynoprojekt2\kasynoprojekt\include\gra.h
+	"Gracz.h"
+
+1718272384 d:\jpo\kasynoprojekt2\kasynoprojekt\include\jednorekibandyta.h
+	"Gracz.h"
+	"Gra.h"
+
+1718274710 d:\jpo\kasynoprojekt2\kasynoprojekt\include\blackjack.h
+	"Gra.h"
+
+1718278104 source:d:\jpo\kasynoprojekt2\kasynoprojekt\src\blackjack.cpp
+	"BlackJack.h"
+	<iostream>
+	<time.h>
+
+1718025316 source:d:\jpo\kasynoprojekt2\kasynoprojekt\src\gracz.cpp
+	"Gracz.h"
+	<string>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+
+1718278034 source:d:\jpo\kasynoprojekt2\kasynoprojekt\src\jednorekibandyta.cpp
+	"JednorekiBandyta.h"
+	"Gra.h"
+	"Gracz.h"
+	<iostream>
+	<time.h>
+
+1718278034 source:d:\jpo\kasynoprojekt2\kasynoprojekt\src\ruletka.cpp
+	"Ruletka.h"
+	<time.h>
+	<iostream>
+	"Gra.h"
+	"Gracz.h"
+
